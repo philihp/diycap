@@ -1371,10 +1371,10 @@ next@12.3.3:
     "@next/swc-win32-ia32-msvc" "12.3.3"
     "@next/swc-win32-x64-msvc" "12.3.3"
 
-nextra-theme-docs@2.0.0-beta.41:
-  version "2.0.0-beta.41"
-  resolved "https://registry.yarnpkg.com/nextra-theme-docs/-/nextra-theme-docs-2.0.0-beta.41.tgz#61638ff6062a63deee73ba1b39a9c16a382cf49d"
-  integrity sha512-KKShzab63vNcfzHmINWFj0UYuoq4b5eXzL4PcJDzF+suXHGVuPQDs/+bnF0U2foK17Edmk7X6mZn3o/0aEZQMw==
+nextra-theme-docs@2.0.0-beta.42:
+  version "2.0.0-beta.42"
+  resolved "https://registry.yarnpkg.com/nextra-theme-docs/-/nextra-theme-docs-2.0.0-beta.42.tgz#391042b06571f979c2998583f03e2a252ef8df7c"
+  integrity sha512-hv25wP80eQ/Y+H/Four7pZVJXKCWcwUbci1snFFk08p0N+ZB8ed7EmpjAUGQn4e36EeCbaj/FLh5oWWFexUXSg==
   dependencies:
     "@headlessui/react" "^1.6.6"
     "@mdx-js/react" "^2.1.2"
